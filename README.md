@@ -32,4 +32,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I am currently learning java
-- 📫 How to reach me: hashcookie404@gmail.com
