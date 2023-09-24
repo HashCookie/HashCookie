@@ -20,4 +20,4 @@ Proficient using:<br/>
 ### Hi there 👋
 
 
-- 🌱 I am currently learning Swift.
+- 🌱 I am currently learning Swift｜Python.
