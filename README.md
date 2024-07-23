@@ -21,13 +21,3 @@
 
 - 🌱 I am Coki
 - 📮 HashCookie404@gmail.com
-
-### Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/casbin/casbin-editor/pull/144#issuecomment-2244342774) in [casbin/casbin-editor](https://github.com/casbin/casbin-editor)
-2. 💪 Opened PR [#144](https://github.com/casbin/casbin-editor/pull/144) in [casbin/casbin-editor](https://github.com/casbin/casbin-editor)
-3. 💪 Opened PR [#142](https://github.com/casbin/casbin-editor/pull/142) in [casbin/casbin-editor](https://github.com/casbin/casbin-editor)
-4. 💪 Opened PR [#141](https://github.com/casbin/casbin-editor/pull/141) in [casbin/casbin-editor](https://github.com/casbin/casbin-editor)
-5. 💪 Opened PR [#247](https://github.com/casbin/casbin-website-v2/pull/247) in [casbin/casbin-website-v2](https://github.com/casbin/casbin-website-v2)
-<!--END_SECTION:activity-->
